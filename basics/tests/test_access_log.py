@@ -1,6 +1,5 @@
 import access_log_summary
 import basics
-from nose import tools
 
 def test_parse_lines():
 	'''Test for returning a URL, Response Code, and Size'''
